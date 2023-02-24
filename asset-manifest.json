@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yugiohdeckbuilder/static/css/main.b380908f.css",
-    "main.js": "/yugiohdeckbuilder/static/js/main.98a5240e.js",
-    "static/js/787.0d10394b.chunk.js": "/yugiohdeckbuilder/static/js/787.0d10394b.chunk.js",
-    "index.html": "/yugiohdeckbuilder/index.html",
-    "main.b380908f.css.map": "/yugiohdeckbuilder/static/css/main.b380908f.css.map",
-    "main.98a5240e.js.map": "/yugiohdeckbuilder/static/js/main.98a5240e.js.map",
-    "787.0d10394b.chunk.js.map": "/yugiohdeckbuilder/static/js/787.0d10394b.chunk.js.map"
+    "main.css": "/yugiodeckbuilder/static/css/main.b380908f.css",
+    "main.js": "/yugiodeckbuilder/static/js/main.a432d47b.js",
+    "static/js/787.0d10394b.chunk.js": "/yugiodeckbuilder/static/js/787.0d10394b.chunk.js",
+    "index.html": "/yugiodeckbuilder/index.html",
+    "main.b380908f.css.map": "/yugiodeckbuilder/static/css/main.b380908f.css.map",
+    "main.a432d47b.js.map": "/yugiodeckbuilder/static/js/main.a432d47b.js.map",
+    "787.0d10394b.chunk.js.map": "/yugiodeckbuilder/static/js/787.0d10394b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b380908f.css",
-    "static/js/main.98a5240e.js"
+    "static/js/main.a432d47b.js"
   ]
 }
